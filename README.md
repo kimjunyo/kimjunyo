@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=welcome%20to%20kimjunyo's%20world👋&fontSize=50" />
 
-<div align="center">
-	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
-</div>
+# 🌱 Technical Stacks
+Language: <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/java%2011-F7DF1E?style=flat&logo=java&logoColor=white" />
