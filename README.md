@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 ## 🛠️ Project
 플레이데이터 백엔드 부트캠프에서 `대용량 서비스를 위한 MSA 엔지니어 양성 과정`을 수료하였습니다.
 
-- [4th mini project](https://github.com/kimjunyo/miniproject4_withJ): 스프링 프레임워크를 활용한 쇼핑몰 웹 프로젝트를 고도화하였고 저는 거래에 관한 컨트롤러 코드와 서비스 코드를 리팩토링하였습니다.
-- [5th mini project](https://github.com/kimjunyo/murang): 중고물품 대여서비스 프로젝트이고 저는 ERD 설계와 DB 설계, API 설계, FE를 담당하였습니다. 
 - [Final Project](https://github.com/miracle-job-a): 총 6명이 협업하여 만든 개발자 취업사이트 프로젝트이며 제가 참여한 파트는 [gateway-service](https://github.com/kimjunyo/miracle-job-a-gateway-service)입니다.
+- [5th mini project](https://github.com/kimjunyo/murang): 중고물품 대여서비스 프로젝트이고 저는 ERD 설계와 DB 설계, API 설계, FE를 담당하였습니다. 
+- [4th mini project](https://github.com/kimjunyo/miniproject4_withJ): 스프링 프레임워크를 활용한 쇼핑몰 웹 프로젝트를 고도화하였고 저는 거래에 관한 컨트롤러 코드와 서비스 코드를 리팩토링하였습니다.
 
 사이드 프로젝트는 `볼링 게임 점수판 프로젝트`를 수행하였습니다.
 
