@@ -52,9 +52,6 @@ Here are some ideas to get you started:
 - [Tool-for-Monitoring-Thread](https://github.com/SWE3028-Project101/Tool-for-Monitoring-Thread/tree/main/backend): 각 쓰레드의 메모리 사용량, response time을 개발자에게 보여줌으로써 프로젝트의 효율을 높일 수 있는 사이트를 개발하였습니다. 저는 백엔드를 담당하여 API의 정보를 프론트엔드에 전송하고 저장하는 역할을 하였습니다.
 - [CalBak](https://github.com/kimjunyo/calbak_application): Kotlin을 활용하여 식당 예약 앱을 개발하였습니다. 저는 프론트와 백엔드를 모두 담당하였습니다.
 
-### SSAFY(삼성SW교육아카데미)에서 자바 알고리즘 스터디를 진행하고 있습니다.
-- [ALS 알고리즘 스터디](https://github.com/kimjunyo/algorithm_study) : 스터디장으로서 매 스터디마다 알고리즘을 스터디원들에게 설명하고 Do It 알고리즘 자바편 교재와 Baekjoon Online Judge 추가 문제를 통해 알고리즘을 익힙니다.
-
 ### 플레이데이터 백엔드 부트캠프에서 파이널 프로젝트 이외에 `중고물품 대여서비스 프로젝트`를 진행하고, `쇼핑몰 웹 프로젝트`를 고도화하였습니다.
 
 - [5th mini project](https://github.com/kimjunyo/murang): 중고물품 대여서비스 프로젝트이고 저는 ERD 설계와 DB 설계, API 설계, FE를 담당하였습니다. 
@@ -63,6 +60,10 @@ Here are some ideas to get you started:
 ### 사이드 프로젝트는 `볼링 게임 점수판 프로젝트`를 수행하였습니다.
 
 - [Balling Game](https://github.com/kimjunyo/balling-game)
+
+## 🏫 Study
+SSAFY(삼성SW교육아카데미)에서 자바 알고리즘 스터디를 진행하고 있습니다.
+- [ALS 알고리즘 스터디](https://github.com/kimjunyo/algorithm_study) : 스터디장으로서 매 스터디마다 알고리즘을 스터디원들에게 설명하고 Do It 알고리즘 자바편 교재와 Baekjoon Online Judge 추가 문제를 통해 알고리즘을 익힙니다.
 
 <br>
 
