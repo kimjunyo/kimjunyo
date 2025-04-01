@@ -36,17 +36,15 @@ Here are some ideas to get you started:
 플레이데이터 백엔드 부트캠프에서 `대용량 서비스를 위한 MSA 엔지니어 양성 과정`을 수료하였습니다.
 
 - [Final Project](https://github.com/miracle-job-a): 총 6명이 협업하여 만든 개발자 취업사이트 프로젝트이며 제가 참여한 파트는 [gateway-service](https://github.com/kimjunyo/miracle-job-a-gateway-service)입니다.
-### 👥 역할 소개
-- Gateway Team 리더
-- Gateway Service 개발
-  - 세션 및 토큰 관리
-  - Front-End 설계 및 개발
-  - ServiceCall Model 설계
-    - 각 서비스(유저,기업,관리자,유틸)에 수신/송신하는 api 모듈 개발
-  - 예외 처리 화면 통일화
-- AWS S3 적용
-  - AWS S3 이미지 저장 및 삭제, 조회
-- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=35&end=48">이메일 인증 적용 (SMTP)</a>
+  - Gateway Team 리더
+  - Gateway Service 개발
+    - 세션 및 토큰 관리
+    - Front-End 설계 및 개발
+    - ServiceCall Model 설계 : 각 서비스(유저,기업,관리자,유틸)에 수신/송신하는 api 모듈 개발
+    - 예외 처리 화면 통일화
+  - AWS S3 적용
+    - AWS S3 이미지 저장 및 삭제, 조회
+  - <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=35&end=48">이메일 인증 적용 (SMTP)</a>
 
 학교에서는 `대학생들만을 위한 중고장터 앱 개발 프로젝트`의 팀장을 맡았고 `쓰레드 시각화 프로젝트`, 해커톤 프로젝트로 `캐치테이블 앱 고도화 프로젝트`를 수행하였습니다.
 
