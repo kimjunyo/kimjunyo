@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 🛠️ Project
-플레이데이터 백엔드 부트캠프에서 `대용량 서비스를 위한 MSA 엔지니어 양성 과정`을 수료하였습니다.
+### 플레이데이터 백엔드 부트캠프에서 `대용량 서비스를 위한 MSA 엔지니어 양성 과정`을 수료하였습니다.
 
 - [Final Project](https://github.com/miracle-job-a): 총 6명이 협업하여 만든 개발자 취업사이트 프로젝트이며 제가 참여한 파트는 [gateway-service](https://github.com/kimjunyo/miracle-job-a-gateway-service)입니다.
   - Gateway Team 리더
@@ -46,18 +46,21 @@ Here are some ideas to get you started:
     - AWS S3 이미지 저장 및 삭제, 조회
   - <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=35&end=48">이메일 인증 적용 (SMTP)</a>
 
-학교에서는 `대학생들만을 위한 중고장터 앱 개발 프로젝트`의 팀장을 맡았고 `쓰레드 시각화 프로젝트`, 해커톤 프로젝트로 `캐치테이블 앱 고도화 프로젝트`를 수행하였습니다.
+### 학교에서는 `대학생들만을 위한 중고장터 앱 개발 프로젝트`의 팀장을 맡았고 `쓰레드 시각화 프로젝트`, 해커톤 프로젝트로 `캐치테이블 앱 고도화 프로젝트`를 수행하였습니다.
 
 - [성대한마켓 앱 백엔드](https://github.com/kimjunyo/SWE9-spring-server): 팀장을 맡아 프론트엔드와 백엔드 팀을 각각 나누고, 매주 구글밋으로 회의를 열어 각 팀의 개발 상황을 확인하고 팀 간 필요 사항을 조율하고 계획하였습니다. 저는 백엔드 팀원으로서, 채팅 관련 API와 DB를 설계하고, 모든 API를 테스트하는데 일조하였습니다.
 - [Tool-for-Monitoring-Thread](https://github.com/SWE3028-Project101/Tool-for-Monitoring-Thread/tree/main/backend): 각 쓰레드의 메모리 사용량, response time을 개발자에게 보여줌으로써 프로젝트의 효율을 높일 수 있는 사이트를 개발하였습니다. 저는 백엔드를 담당하여 API의 정보를 프론트엔드에 전송하고 저장하는 역할을 하였습니다.
 - [CalBak](https://github.com/kimjunyo/calbak_application): Kotlin을 활용하여 식당 예약 앱을 개발하였습니다. 저는 프론트와 백엔드를 모두 담당하였습니다.
 
-플레이데이터 백엔드 부트캠프에서 파이널 프로젝트 이외에 `중고물품 대여서비스 프로젝트`를 진행하고, `쇼핑몰 웹 프로젝트`를 고도화하였습니다.
+### SSAFY(삼성SW교육아카데미)에서 자바 알고리즘 스터디를 진행하고 있습니다.
+- [ALS 알고리즘 스터디](https://github.com/kimjunyo/algorithm_study) : 스터디장으로서 매 스터디마다 알고리즘을 스터디원들에게 설명하고 Do It 알고리즘 자바편 교재와 Baekjoon Online Judge 추가 문제를 통해 알고리즘을 익힙니다.
+
+### 플레이데이터 백엔드 부트캠프에서 파이널 프로젝트 이외에 `중고물품 대여서비스 프로젝트`를 진행하고, `쇼핑몰 웹 프로젝트`를 고도화하였습니다.
 
 - [5th mini project](https://github.com/kimjunyo/murang): 중고물품 대여서비스 프로젝트이고 저는 ERD 설계와 DB 설계, API 설계, FE를 담당하였습니다. 
 - [4th mini project](https://github.com/kimjunyo/miniproject4_withJ): 스프링 프레임워크를 활용한 쇼핑몰 웹 프로젝트를 고도화하였고 저는 거래에 관한 컨트롤러 코드와 서비스 코드를 리팩토링하였습니다.
 
-사이드 프로젝트는 `볼링 게임 점수판 프로젝트`를 수행하였습니다.
+### 사이드 프로젝트는 `볼링 게임 점수판 프로젝트`를 수행하였습니다.
 
 - [Balling Game](https://github.com/kimjunyo/balling-game)
 
