@@ -61,6 +61,9 @@ Here are some ideas to get you started:
 
 - [Balling Game](https://github.com/kimjunyo/balling-game)
 
+<br>
+
+
 ## 🏫 Study
 SSAFY(삼성SW교육아카데미)에서 자바 알고리즘 스터디를 진행하고 있습니다.
 - [ALS 알고리즘 스터디](https://github.com/kimjunyo/algorithm_study) : 스터디장으로서 매 스터디마다 알고리즘을 스터디원들에게 설명하고 Do It 알고리즘 자바편 교재와 Baekjoon Online Judge 추가 문제를 통해 알고리즘을 익힙니다.
